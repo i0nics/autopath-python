@@ -10,8 +10,6 @@
   [![Issues][issues-shield]][issues-url]
   [![MIT License][license-shield]][license-url]
   
-  <a href="https://github.com/comp195/senior-project-spring-2022-autopath/tree/master/documentation"><strong>Explore the docs »</strong></a>
-  
 </div>
 
 <!-- TABLE OF CONTENTS -->

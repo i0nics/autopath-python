@@ -109,7 +109,7 @@ Bikram Chatterjee - b_chatterjee@u.pacific.edu
 [last-commit-shield]: https://img.shields.io/github/last-commit/i0nics/autopath-python?style=for-the-badge
 [last-commit-url]: https://img.shields.io/github/last-commit/i0nics/autopath-python?style=for-the-badge
 [license-shield]: https://img.shields.io/github/license/i0nics/autopath-python.svg?style=for-the-badge
-[license-url]: https://github.com/i0nics/autopath-python/blob/master/LICENSE.txt
+[license-url]: https://github.com/i0nics/autopath-python/blob/master/LICENSE
 [linkedin-shield-bikram]: https://img.shields.io/badge/-LinkedIn_(Bikram_C.)-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url-bikram]: https://linkedin.com/in/bikramce
 [product-screenshot]: images/screenshot.png 
